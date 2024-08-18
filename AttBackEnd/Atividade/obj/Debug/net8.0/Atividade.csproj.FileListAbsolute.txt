@@ -1,0 +1,14 @@
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\bin\Debug\net8.0\Atividade.exe
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\bin\Debug\net8.0\Atividade.deps.json
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\bin\Debug\net8.0\Atividade.dll
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\bin\Debug\net8.0\Atividade.pdb
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\obj\Debug\net8.0\Atividade.dll
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\obj\Debug\net8.0\refint\Atividade.dll
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\obj\Debug\net8.0\Atividade.pdb
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+E:\Trabalho\VisualStudioWorkspace\AttBackEnd\atividade\obj\Debug\net8.0\ref\Atividade.dll
